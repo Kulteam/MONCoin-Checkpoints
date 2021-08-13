@@ -6,6 +6,6 @@ The checkpoints storage has since moved to being stored using [IPFS](https://ipf
 
 Directions on how to use checkpoints, how to help the community by helping in the decentralized distribution of the checkpoints using IPFS, and how to retrieve the latest IPFS hash for retrieving the checkpoints can be found at [https://checkpoints.moncoin.io](https://checkpoints.moncoin.io).
 
-Checkpoints are now generated via the [checkpoint-service](https://github.com/turtlecoin/ipfs-cf-checkpointer-node) script.
+Checkpoints are now generated via the [checkpoint-service](https://github.com/Kulteam/MONCoin-IPFS-CF-Checkpointer-Node) script.
 
-Copyright © 2018-2021 The MONCoin Developers.
+
